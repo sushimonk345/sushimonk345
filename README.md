@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sushimonk345
 - 👀 I’m interested in astronomy, tech, physics and rockets.
-- 🌱 I’m currently learning and planning to learn HTML, C, Python, and Embedded Systems. 
-- 💞️ I’m looking to collaborate on FTC Robotics, data analysis, astronomical data, and rocketry.
+- 🌱 I’m currently learning HTML, CSS, Python, and C.
+- 💞️ I’m looking to collaborate on data analysis, astronomical data, CFD, and propulsion.
 - 📫 My email is nwrockets69@gmail.com
 - 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: Huge Pinegrove fan. Aphasia is a top 10.
+- ⚡ Fun fact: J-INDIE 4 LIFE.
