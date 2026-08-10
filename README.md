@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sushimonk345
-- 👀 I’m interested in astronomy, tech, physics and rockets.
-- 🌱 I’m currently learning Python, Java, and C++.
-- 💞️ I’m looking to collaborate on data analysis, astronomical data, CFD, and propulsion.
+- 👀 I’m interested in astronomy, AI, physics, and rockets.
+- 🌱 I’m currently learning Python, Java, Rust, OCaml, and C++.
 - 📫 My email is nwrockets69@gmail.com
